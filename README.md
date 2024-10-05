@@ -10,6 +10,7 @@ El modelo del paracaidista se basa en la solución de una ecuación diferencial 
 2. **Método de Runge Kutta**: Un método más preciso de orden 4 que mejora las estimaciones de Euler.
 3. **Método de Heun**: También conocido como "Euler mejorado", es una versión refinada del método de Euler.
 
+El código se puede ejecutar en una terminal de python, se puede usar entornos de desarrollo como VSCODE 
 ## Requisitos
 
 Antes de ejecutar el script, asegúrate de tener instaladas las siguientes dependencias:
